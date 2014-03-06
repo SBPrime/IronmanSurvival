@@ -1,0 +1,143 @@
+[19:50:24] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[19:50:24] [Server thread/INFO]: Loading properties
+[19:50:24] [Server thread/INFO]: Default game type: SURVIVAL
+[19:50:24] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-1225 (MC: 1.7.2) (Implementing API version 1.7.2-R0.3-SNAPSHOT)
+[19:50:24] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:50:24] [Server thread/INFO]: Generating keypair
+[19:50:25] [Server thread/INFO]: Starting Minecraft server on *:26566
+[19:50:25] [Server thread/INFO]: [IronmanSurvival] Loading IronmanSurvival v0.1
+[19:50:25] [Server thread/INFO]: Preparing level "world"
+[19:50:25] [Server thread/INFO]: -------- World Settings For [world] --------
+[19:50:25] [Server thread/INFO]: View Distance: 10
+[19:50:25] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:50:25] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:50:25] [Server thread/INFO]: Mob Spawn Range: 4
+[19:50:25] [Server thread/INFO]: Nerfing mobs spawned from spawners false
+[19:50:25] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:50:25] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:50:25] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:50:25] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:50:25] [Server thread/INFO]: Anti X-Ray: true
+[19:50:25] [Server thread/INFO]: 	Engine Mode: 1
+[19:50:25] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:50:25] [Server thread/INFO]: 	Replace Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:50:25] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:50:25] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:50:25] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:50:25] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:50:25] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:50:25] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:50:25] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:50:25] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:50:25] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:50:25] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8
+[19:50:25] [Server thread/INFO]: Random Lighting Updates: false
+[19:50:25] [Server thread/INFO]: Structure Info Saving: true
+[19:50:25] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[19:50:25] [Server thread/INFO]: View Distance: 10
+[19:50:25] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:50:25] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:50:25] [Server thread/INFO]: Mob Spawn Range: 4
+[19:50:25] [Server thread/INFO]: Nerfing mobs spawned from spawners false
+[19:50:25] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:50:25] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:50:25] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:50:25] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:50:25] [Server thread/INFO]: Anti X-Ray: true
+[19:50:25] [Server thread/INFO]: 	Engine Mode: 1
+[19:50:25] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:50:25] [Server thread/INFO]: 	Replace Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:50:25] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:50:25] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:50:25] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:50:25] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:50:25] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:50:25] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:50:25] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:50:25] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:50:25] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:50:25] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8
+[19:50:25] [Server thread/INFO]: Random Lighting Updates: false
+[19:50:25] [Server thread/INFO]: Structure Info Saving: true
+[19:50:26] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[19:50:26] [Server thread/INFO]: View Distance: 10
+[19:50:26] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[19:50:26] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:50:26] [Server thread/INFO]: Mob Spawn Range: 4
+[19:50:26] [Server thread/INFO]: Nerfing mobs spawned from spawners false
+[19:50:26] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:50:26] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:50:26] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:50:26] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:50:26] [Server thread/INFO]: Anti X-Ray: true
+[19:50:26] [Server thread/INFO]: 	Engine Mode: 1
+[19:50:26] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:50:26] [Server thread/INFO]: 	Replace Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[19:50:26] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:50:26] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:50:26] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:50:26] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:50:26] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:50:26] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:50:26] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:50:26] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[19:50:26] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:50:26] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8
+[19:50:26] [Server thread/INFO]: Random Lighting Updates: false
+[19:50:26] [Server thread/INFO]: Structure Info Saving: true
+[19:50:26] [Server thread/INFO]: Preparing start region for level 0 (Seed: -8953605910262482567)
+[19:50:27] [Server thread/INFO]: Preparing spawn area: 45%
+[19:50:27] [Server thread/INFO]: Preparing start region for level 1 (Seed: -8953605910262482567)
+[19:50:28] [Server thread/INFO]: Preparing start region for level 2 (Seed: -8953605910262482567)
+[19:50:28] [Server thread/INFO]: [IronmanSurvival] Enabling IronmanSurvival v0.1
+[19:50:28] [Server thread/INFO]: [IronmanSurvival] Enabled
+[19:50:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:50:28] [Server thread/INFO]: Done (3,002s)! For help, type "help" or "?"
+[19:53:12] [User Authenticator #1/INFO]: [IronmanSurvival] AsyncPlayerPreLoginEvent
+[19:53:12] [Server thread/INFO]: [IronmanSurvival] PlayerPreLoginEvent
+[19:53:12] [User Authenticator #1/INFO]: UUID of player SBPrime is 9d8e33cbb6224b7dab32a4d851330eb9
+[19:53:12] [Server thread/INFO]: [IronmanSurvival] PlayerLoginEvent
+[19:53:12] [Server thread/INFO]: SBPrime[/127.0.0.1:46981] logged in with entity id 132 at ([world] 157.29131168471025, 82.0, 95.06365892109636)
+[19:53:12] [Server thread/INFO]: [IronmanSurvival] PlayerJoinEvent
+[19:53:12] [Server thread/INFO]: [IronmanSurvival] PlayerTeleportEvent
+[19:53:12] [Server thread/INFO]: [IronmanSurvival] EntityTargetEvent
+[19:53:13] [Server thread/INFO]: [IronmanSurvival] PlayerItemHeldEvent from 2 to 2
+[19:53:13] [Server thread/INFO]: [IronmanSurvival] PlayerTeleportEvent
+[19:53:15] [Server thread/INFO]: [IronmanSurvival] EntityTargetLivingEntityEvent
+[19:53:15] [Server thread/INFO]: [IronmanSurvival] EntityTargetLivingEntityEvent
+[19:53:15] [Server thread/INFO]: [IronmanSurvival] EntityTargetEvent
+[19:53:17] [Server thread/INFO]: [IronmanSurvival] InventoryClickEvent a:PICKUP_ALL c:LEFT ci:container.inventory/container.inventory/PLAYER i:ItemStack{STICK x 64} cu:ItemStack{AIR x 0} s:QUICKBAR hbb:-1
+[19:53:17] [Server thread/INFO]: [IronmanSurvival] 1
+[19:53:18] [Server thread/INFO]: [IronmanSurvival] ItemDespawnEvent
+[19:53:20] [Server thread/INFO]: [IronmanSurvival] InventoryDragEvent
+[19:53:25] [Server thread/INFO]: [IronmanSurvival] InventoryClickEvent a:PICKUP_ALL c:LEFT ci:container.inventory/container.inventory/PLAYER i:ItemStack{STICK x 64} cu:ItemStack{AIR x 0} s:CONTAINER hbb:-1
+[19:53:25] [Server thread/INFO]: [IronmanSurvival] 9
+[19:53:25] [Server thread/INFO]: [IronmanSurvival] EntityChangeBlockEvent
+[19:53:26] [Server thread/INFO]: [IronmanSurvival] SheepRegrowWoolEvent
+[19:53:26] [Server thread/INFO]: [IronmanSurvival] InventoryClickEvent a:PLACE_ALL c:LEFT ci:container.inventory/container.inventory/PLAYER i:ItemStack{AIR x 0} cu:ItemStack{STICK x 64} s:QUICKBAR hbb:-1
+[19:53:26] [Server thread/INFO]: [IronmanSurvival] 0
+[19:53:29] [Server thread/INFO]: [IronmanSurvival] InventoryClickEvent a:PICKUP_ALL c:LEFT ci:container.inventory/container.inventory/PLAYER i:ItemStack{STICK x 64} cu:ItemStack{AIR x 0} s:QUICKBAR hbb:-1
+[19:53:29] [Server thread/INFO]: [IronmanSurvival] 0
+[19:53:30] [Server thread/INFO]: [IronmanSurvival] InventoryClickEvent a:PLACE_ALL c:LEFT ci:container.crafting/container.crafting/CRAFTING i:ItemStack{AIR x 0} cu:ItemStack{STICK x 64} s:CRAFTING hbb:-1
+[19:53:30] [Server thread/INFO]: [IronmanSurvival] 1
+[19:53:32] [Server thread/INFO]: [IronmanSurvival] BlockSpreadEvent
+[19:53:37] [Server thread/INFO]: [IronmanSurvival] InventoryClickEvent a:PICKUP_ALL c:LEFT ci:container.crafting/container.crafting/CRAFTING i:ItemStack{STICK x 64} cu:ItemStack{AIR x 0} s:CRAFTING hbb:-1
+[19:53:37] [Server thread/INFO]: [IronmanSurvival] 1
+[19:53:38] [Server thread/INFO]: [IronmanSurvival] InventoryClickEvent a:PLACE_ALL c:LEFT ci:container.inventory/container.inventory/PLAYER i:ItemStack{AIR x 0} cu:ItemStack{STICK x 64} s:ARMOR hbb:-1
+[19:53:38] [Server thread/INFO]: [IronmanSurvival] 39
+[19:53:38] [Server thread/INFO]: [IronmanSurvival] InventoryClickEvent a:PLACE_ALL c:LEFT ci:container.inventory/container.inventory/PLAYER i:ItemStack{AIR x 0} cu:ItemStack{STICK x 64} s:ARMOR hbb:-1
+[19:53:38] [Server thread/INFO]: [IronmanSurvival] 39
+[19:53:39] [Server thread/INFO]: [IronmanSurvival] InventoryClickEvent a:PLACE_ALL c:LEFT ci:container.inventory/container.inventory/PLAYER i:ItemStack{AIR x 0} cu:ItemStack{STICK x 64} s:CONTAINER hbb:-1
+[19:53:39] [Server thread/INFO]: [IronmanSurvival] 29
+[19:53:59] [Server thread/INFO]: [IronmanSurvival] InventoryCloseEvent
+[19:54:00] [Server thread/INFO]: [IronmanSurvival] PlayerInteractEvent
+[19:54:00] [Server thread/INFO]: [IronmanSurvival] InventoryOpenEvent
+[19:54:00] [Server thread/INFO]: [IronmanSurvival] PlayerAnimationEvent
+[19:54:01] [Server thread/INFO]: [IronmanSurvival] InventoryClickEvent a:PICKUP_ALL c:LEFT ci:container.inventory/container.inventory/PLAYER i:ItemStack{STICK x 64} cu:ItemStack{AIR x 0} s:CONTAINER hbb:-1
+[19:54:01] [Server thread/INFO]: [IronmanSurvival] 29
+[19:54:03] [Server thread/INFO]: [IronmanSurvival] InventoryClickEvent a:PLACE_ALL c:LEFT ci:container.inventory/container.inventory/PLAYER i:ItemStack{AIR x 0} cu:ItemStack{STICK x 64} s:CONTAINER hbb:-1
+[19:54:03] [Server thread/INFO]: [IronmanSurvival] 9
+[19:54:08] [Server thread/INFO]: [IronmanSurvival] InventoryClickEvent a:PICKUP_ALL c:LEFT ci:container.inventory/container.inventory/PLAYER i:ItemStack{STICK x 64} cu:ItemStack{AIR x 0} s:CONTAINER hbb:-1
+[19:54:08] [Server thread/INFO]: [IronmanSurvival] 9
+[19:54:09] [Server thread/INFO]: [IronmanSurvival] InventoryClickEvent a:PLACE_ALL c:LEFT ci:container.crafting/container.crafting/WORKBENCH i:ItemStack{AIR x 0} cu:ItemStack{STICK x 64} s:CRAFTING hbb:-1
+[19:54:09] [Server thread/INFO]: [IronmanSurvival] 1

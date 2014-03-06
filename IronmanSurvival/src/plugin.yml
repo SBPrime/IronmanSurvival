@@ -1,0 +1,9 @@
+name: IronmanSurvival
+main: org.primesoft.ironmansurvival.IronmanSurvival
+version: 0.1
+description: This plugin changes how survival world works
+authors: [SBPrime]
+depend: 
+softdepend: 
+commands:
+permissions:
